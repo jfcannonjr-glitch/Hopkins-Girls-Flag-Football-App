@@ -1,13 +1,18 @@
-name: flutter_app
-description: A new Flutter project.
+name: hopkins_girls_flag_football
+description: Hopkins Girls Flag Football team app with registration, forms, and schedule.
 version: 1.0.0+1
+
 environment:
   sdk: ">=2.17.0 <3.0.0"
+
 dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  url_launcher: ^6.1.10
 
 flutter:
   uses-material-design: true
-  # Add any additional configuration here.
+  assets:
+    - assets/logo.png
+    - assets/schedule.jpg
