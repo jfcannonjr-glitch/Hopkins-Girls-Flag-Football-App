@@ -10,4 +10,5 @@ dependencies:
 
 flutter:
   uses-material-design: true
-  # Add any additional configuration here.
+  assets:
+    - assets/images/
