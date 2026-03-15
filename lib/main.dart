@@ -20,7 +20,7 @@ class HopkinsGirlsFlagFootballApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(
           seedColor: Colors.blue,
           primary: Colors.blue,
-          secondary: Colors.yellow,
+          secondary: Colors.black,
         ),
         useMaterial3: true,
       ),
@@ -28,7 +28,7 @@ class HopkinsGirlsFlagFootballApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(
           seedColor: Colors.blue,
           primary: Colors.blue,
-          secondary: Colors.yellow,
+          secondary: Colors.black,
           brightness: Brightness.dark,
         ),
         useMaterial3: true,
